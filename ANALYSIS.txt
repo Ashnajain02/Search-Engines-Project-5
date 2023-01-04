@@ -1,0 +1,4 @@
+Interpret that table. Given what you know of the retrieval models involved, why might you see the 
+results you are seeing? (Recall that you can find a sketch of the dependence model starting on page 281 
+of both the printed and PDF textbook.)
+
